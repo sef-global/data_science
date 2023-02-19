@@ -1,4 +1,4 @@
-# data_science
+# Data Science
 Data Science Related Code of SEF
 
 In order to get started with Data Science work at SEF, we would except contributors to have a basic understanding of the following languages/libraries. Resources to learn them has also been given.
